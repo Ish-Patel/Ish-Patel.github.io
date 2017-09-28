@@ -29,7 +29,7 @@ li a:hover:not(.active)
 #title
 		{
 			background-color:#031727;
-			font color="#18C29C";
+			color:"#18C29C";
 			margin-bottom:0;
 			text-align:center;
 		}
