@@ -1,6 +1,41 @@
 <!DOCTYPE html>
 <html>
+<head>
+<!-- Navigation Bar Style -->
+<style>
+	ul
+		{
+    			list-style-type: none;
+    			margin: 0;
+    			padding: 0;
+    			width: 200px;
+    			background-color: #126872;
+		}
 
+li a
+		{
+    			display: block;
+    			color: #88F9D4;
+   			padding: 8px 16px;
+   			text-decoration: none;
+		}
+
+li a.active
+		{
+    			background-color: green;
+    			color: white;
+		}
+
+li a:hover:not(.active)
+		{
+    			background-color: #126872;
+    			color: white;
+		}
+</style>
+
+</head>
+	
+	
 <!-- Container Layout -->
 <body>
 
@@ -20,10 +55,13 @@
         			<b>Menu</b><br>
         		</font>
         			<font color="#88F9D4">
-            			<a href=AboutMe.html>About Me</a><br>
-                        	<a href=Hobbies.html>Hobbies</a><br>
-                        	<a href=Sports.html>Favorite Sports Team</a><br>
-                        	<a href=Books.html>Favorite Book</a><br>
+				<ul>
+					<li><a href=index.html>Home</a></li>
+            				<li><a href=AboutMe.html>About Me</a></li>
+                        		<li><a href=Hobbies.html>Hobbies</a></li>
+                        		<li><a href=Sports.html>Favorite Sports Team</a></li>
+                        		<li><a href=Books.html>Favorite Book</a></li>
+				</ul>
         		</font>
 		    </div>
         
