@@ -29,14 +29,14 @@ li a:hover:not(.active)
 #title
 		{
 			background-color:#031727;
-			color="#18C29C";
+			font color="#18C29C";
 			margin-bottom:0;
 			text-align:center;
 		}
 #navagationleft
 		{
 			background-color:#126872;
-			height:1000px;
+			height:900px;
 			width:150px;
 			float:left;
 			text-align:center;
@@ -44,8 +44,8 @@ li a:hover:not(.active)
 #navigationright
 		{
 			background-color:#126872;
-			height:1000px;
 			width:200px;
+			height:900px;
 			float:right;
 			text-align:left;
 		}
@@ -58,5 +58,6 @@ li a:hover:not(.active)
 #content
 		{
 			background-color:#0B877D;
-			height:1000px;
+			height:900px;
+			float:center;
 		}
