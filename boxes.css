@@ -26,14 +26,14 @@ li a:hover:not(.active)
     			background-color: #88F9D4;
     			color: #126872;
 		}
-id="title"
+#title
 		{
 			background-color:#031727;
 			color="#18C29C";
 			margin-bottom:0;
 			text-align:center;
 		}
-id="navagationleft"
+#navagationleft
 		{
 			background-color:#126872;
 			height:1000px;
@@ -41,7 +41,7 @@ id="navagationleft"
 			float:left;
 			text-align:center;
 		}
-id="navigationright"
+#navigationright
 		{
 			background-color:#126872;
 			height:1000px;
@@ -49,13 +49,13 @@ id="navigationright"
 			float:right;
 			text-align:left;
 		}
-id="footer"
+#footer
 		{
 			background-color:#18C29C;
 			clear:both;
 			text-align:center;
 		}
-id="content"
+#content
 		{
 			background-color:#0B877D;
 			height:1000px;
