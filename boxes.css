@@ -55,3 +55,8 @@ id="footer"
 			clear:both;
 			text-align:center;
 		}
+id="content"
+		{
+			background-color:#0B877D;
+			height:1000px;
+		}
