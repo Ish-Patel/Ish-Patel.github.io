@@ -2,30 +2,30 @@
 ul
 		{
     			list-style-type: none;
-    			margin: 0;
-    			padding: 0;
-    			width: 10vw;
+    			margin:0;
+    			padding:0;
+    			width:10vw;
     			background-color: #126872;
 		}
 
 li a
 		{
     			display: block;
-    			color: #88F9D4;
-   			padding: 8px 16px;
-   			text-decoration: none;
+    			color:#88F9D4;
+   			padding:8px 16px;
+   			text-decoration:none;
 		}
 	
 li a.active
 		{
-    			background-color: #89D9E5;
-    			color: #455C82;
+    			background-color:#89D9E5;
+    			color:#455C82;
 		}
 
 li a:hover:not(.active)
 		{
-    			background-color: #88F9D4;
-    			color: #126872;
+    			background-color:#88F9D4;
+    			color:#126872;
 		}
 
 /* Container Styles */
