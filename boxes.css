@@ -28,6 +28,12 @@ li a:hover:not(.active)
 		}
 
 /* Container Styles */
+#container
+                {
+			height:100%;
+			width:100%;
+			
+		}
 
 #title
 		{
@@ -59,7 +65,7 @@ li a:hover:not(.active)
 			background-color:#126872;
 			height:auto;
 			width: 15%;
-			float:right;
+			/*float:right;*/
 			text-align:left;
 		}
 #footer
