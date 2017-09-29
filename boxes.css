@@ -29,6 +29,7 @@ li a:hover:not(.active)
 #title
 		{
 			background-color:#031727;
+			height:15vh;
 			color:"#18C29C";
 			margin-bottom:0;
 			text-align:center;
@@ -36,28 +37,30 @@ li a:hover:not(.active)
 #navagationleft
 		{
 			background-color:#126872;
-			height:900px;
-			width:150px;
+			height:75vh;
+			width:10vw;
 			float:left;
 			text-align:center;
 		}
 #navigationright
 		{
 			background-color:#126872;
-			width:200px;
-			height:900px;
+			width:25vw;
+			height:75vh;
 			float:right;
 			text-align:left;
 		}
 #footer
 		{
 			background-color:#18C29C;
+			height:10vh;
 			clear:both;
 			text-align:center;
 		}
 #content
 		{
 			background-color:#0B877D;
-			height:900px;
-			float:center;
+			height:75vh;
+			width:65vw;
+			float:left;
 		}
