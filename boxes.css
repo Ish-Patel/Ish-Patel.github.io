@@ -26,6 +26,11 @@ li a:hover:not(.active)
     			background-color:#ffed02;
     			color: 000000;
 		}
+a:active
+	{
+		background-color:#004d98;
+		color:white;
+	}
 
 /* Container Styles */
 #container
