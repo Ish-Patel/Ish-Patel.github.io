@@ -4,7 +4,7 @@ ul
     			list-style-type: none;
     			margin:0;
     			padding:0;
-    			width:3vw;
+    			width:7vw;
     			background-color: #126872;
 		}
 
@@ -41,7 +41,7 @@ li a:hover:not(.active)
 #navagationleft
 		{
 			background-color:#126872;
-			height:94vh;
+			height:90vh;
 			width:8vw;
 			float:left;
 			text-align:center;
@@ -50,23 +50,22 @@ li a:hover:not(.active)
 #content
 		{
 			background-color:#0B877D;
-			height:94vh;
-			width:66vw;
+			height:90vh;
+			width:70vw;
 		}
 
 #navigationright
 		{
 			background-color:#126872;
-			width:25vw;
-			height:94vh;
+			width:22vw;
+			height:90vh;
 			float:right;
 			text-align:left;
 		}
 #footer
 		{
 			background-color:#18C29C;
-			height:2vh;
+			height:3vh;
 			clear:both;
 			text-align:center;
 		}
-test omg
