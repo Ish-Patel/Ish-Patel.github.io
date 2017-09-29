@@ -1,3 +1,4 @@
+/* Menu Styles */
 ul
 		{
     			list-style-type: none;
@@ -26,11 +27,14 @@ li a:hover:not(.active)
     			background-color: #88F9D4;
     			color: #126872;
 		}
+
+/* Container Styles */
+
 #title
 		{
 			background-color:#031727;
 			height:15vh;
-			color:"#18C29C";
+			color:#18C29C;
 			margin-bottom:0;
 			text-align:center;
 		}
