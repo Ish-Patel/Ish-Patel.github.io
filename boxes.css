@@ -28,6 +28,12 @@ li a:hover:not(.active)
 		}
 
 /* Container Styles */
+#container
+                {
+			height:100%;
+			width:100%;
+			
+		}
 
 #title
 		{
@@ -50,14 +56,14 @@ li a:hover:not(.active)
 		{
 			background-color:#0B877D;
 			height:90%;
-			width:50%;
+			width:auto;
 		}
 
 #navigationright
 		{
 			background-color:#126872;
 			height:90%;
-			width: 15%;
+			width: 350px;
 			float:right;
 			text-align:left;
 		}
