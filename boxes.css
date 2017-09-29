@@ -28,12 +28,6 @@ li a:hover:not(.active)
 		}
 
 /* Container Styles */
-#container
-                {
-			height:100%;
-			width:100%;
-			
-		}
 
 #title
 		{
