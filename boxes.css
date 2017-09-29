@@ -4,7 +4,7 @@ ul
     			list-style-type: none;
     			margin:0;
     			padding:0;
-    			width:10vw;
+    			width:8vw;
     			background-color: #126872;
 		}
 
@@ -42,10 +42,18 @@ li a:hover:not(.active)
 		{
 			background-color:#126872;
 			height:75vh;
-			width:10vw;
+			width:8vw;
 			float:left;
 			text-align:center;
 		}
+
+#content
+		{
+			background-color:#0B877D;
+			height:75vh;
+			width:65vw;
+		}
+
 #navigationright
 		{
 			background-color:#126872;
@@ -60,10 +68,4 @@ li a:hover:not(.active)
 			height:10vh;
 			clear:both;
 			text-align:center;
-		}
-#content
-		{
-			background-color:#0B877D;
-			height:75vh;
-			width:65vw;
 		}
