@@ -4,7 +4,7 @@ ul
     			list-style-type: none;
     			margin:0;
     			padding:0;
-    			width:8vw;
+    			width:150px;
     			background-color: #126872;
 		}
 
@@ -33,7 +33,7 @@ li a:hover:not(.active)
 #title
 		{
 			background-color:#031727;
-			height:15vh;
+			height:10%;
 			color:#18C29C;
 			margin-bottom:0;
 			text-align:center;
@@ -41,8 +41,8 @@ li a:hover:not(.active)
 #navagationleft
 		{
 			background-color:#126872;
-			height:90vh;
-			width:8vw;
+			height:auto;
+			width:150px;
 			float:left;
 			text-align:center;
 		}
@@ -50,21 +50,21 @@ li a:hover:not(.active)
 #content
 		{
 			background-color:#0B877D;
-			height:90vh;
-			width:70vw;
+			height:auto;
+			width:70%;
 		}
 
 #navigationright
 		{
 			background-color:#126872;
-			height:90vh;
+			height:auto;
 			float:right;
 			text-align:left;
 		}
 #footer
 		{
 			background-color:#18C29C;
-			height:3vh;
+			height:3%;
 			clear:both;
 			text-align:center;
 		}
