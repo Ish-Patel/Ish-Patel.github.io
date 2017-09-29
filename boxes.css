@@ -49,7 +49,7 @@ li a:hover:not(.active)
 #navigationright
 		{
 			background-color:#126872;
-			width:20vw;
+			width:25vw;
 			height:75vh;
 			float:right;
 			text-align:left;
@@ -66,5 +66,4 @@ li a:hover:not(.active)
 			background-color:#0B877D;
 			height:75vh;
 			width:65vw;
-			float:left;
 		}
