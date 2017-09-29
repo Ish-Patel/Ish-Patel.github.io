@@ -57,7 +57,7 @@ li a:hover:not(.active)
 			background-color:#0B877D;
 			height:90%;
 			width:auto;
-			
+			float:right;
 		}
 
 #navigationright
@@ -65,7 +65,7 @@ li a:hover:not(.active)
 			background-color:#126872;
 			height:90%;
 			width: 15%;
-			/*float:right;*/
+			float:right;
 			text-align:left;
 		}
 #footer
