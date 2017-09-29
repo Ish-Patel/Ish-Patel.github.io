@@ -4,7 +4,7 @@ ul
     			list-style-type: none;
     			margin:0;
     			padding:0;
-    			width:8vw;
+    			width:3vw;
     			background-color: #126872;
 		}
 
@@ -41,7 +41,7 @@ li a:hover:not(.active)
 #navagationleft
 		{
 			background-color:#126872;
-			height:75vh;
+			height:94vh;
 			width:8vw;
 			float:left;
 			text-align:center;
@@ -50,22 +50,22 @@ li a:hover:not(.active)
 #content
 		{
 			background-color:#0B877D;
-			height:75vh;
-			width:65vw;
+			height:94vh;
+			width:66vw;
 		}
 
 #navigationright
 		{
 			background-color:#126872;
 			width:25vw;
-			height:75vh;
+			height:94vh;
 			float:right;
 			text-align:left;
 		}
 #footer
 		{
 			background-color:#18C29C;
-			height:10vh;
+			height:2vh;
 			clear:both;
 			text-align:center;
 		}
